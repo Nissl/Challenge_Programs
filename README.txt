@@ -1,0 +1,1 @@
+Some small programs for Reddit daily programmer challenges and other odds and ends.
